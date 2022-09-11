@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vspeed21
 - 👀 I’m interested in learning more about front-end web development
-- 🌱 I’m currently learning JavaScript y Tailwindcss
+- 🌱 I’m currently learning Next.js y Bootstrap
 - 💞️ I am looking to collaborate on a project that improves my skills as a front-end web developer
 - 📫 How to reach me: email vtorresquintanilla0206@gmail.com
 
