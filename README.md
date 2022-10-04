@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about front-end web development
 - 🌱 I’m currently learning Next.js y Bootstrap
 - 💞️ I am looking to collaborate on a project that improves my skills as a front-end web developer
-- 📫 How to reach me: email vtorresquintanilla0206@gmail.com
+- 📫 How to reach me: email vtorresquintanilla0206@gmail.com or you can visit https://portafolio-tikodev.vercel.app/contacto to contact me
 
 <!---
 vspeed21/vspeed21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
