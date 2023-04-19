@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Web Frontend Developer<br>I'm currently working on projects to improve my skills<br>I'm currently learn about framework SSR like remix.run<br><br>Who I am?<br>I'm honest person, I love coding and self-taught person.<br>Looking for a open source projects.<br><br>I make your website *shine* on the *web*
+I'm Web Frontend Developer<br>I'm currently working on projects to improve my skills<br>I'm currently learn about Angular and Flutter to develop mobil apps<br><br>Who I am?<br>I'm honest person, I love coding and self-taught person.<br>Looking for a open source projects.<br><br>I make your website *shine* on the *web*
 
 
 # 💻 Tech Stack:
