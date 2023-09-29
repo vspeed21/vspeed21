@@ -2,7 +2,6 @@
 <p><em>Full Stack Develeper</em></p>
 
 [![Victor Torres](https://img.shields.io/badge/Victor%20Torres-blue?style=flat&logo=linkedin&link=https://linkedin.com/in/victor-torres21)](https://linkedin.com/in/victor-torres21)
-[![Github](https://img.shields.io/badge/Github-gray?style=plastic&logo=github&link=https://github.com/vspeed21)](https://github.com/vspeed21)
 [![Website](https://img.shields.io/badge/Website-vtorresdev.com-green?labelColor=gray&style=plastic&logo=google-chrome&link=https://vtorresdev.com?cv=github)](https://vtorresdev.com?cv=github)
 [![](https://visitcount.itsvg.in/api?id=vspeed21&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
